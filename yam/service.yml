@@ -12,3 +12,4 @@ spec:
       targetPort: 8080
   selector:
     app: app-deploy
+#verification de la cicd
